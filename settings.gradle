@@ -1,1 +1,1 @@
-include ':app', ':glidedemo'
+include ':app', ':glidedemo', ':myapplication'
